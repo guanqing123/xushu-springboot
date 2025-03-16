@@ -2,7 +2,6 @@ package org.springboot;
 
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 
-@XushuSpringBootApplication
 public class XushuSpringApplication {
 
     public static void run(Class clazz){
